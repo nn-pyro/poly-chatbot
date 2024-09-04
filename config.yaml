@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    adminuser1:
+      email: admin1@example.com
+      name: Admin 1
+      password: $2b$12$RfDKwDl11rvWQHEOLFVXUODCVLZoVpoZNhucLBHl59sR80XUC.RMO
+    adminuser2:
+      email: admin2@example.com
+      name: Admin 2
+      password: $2b$12$b49J0GavaGsH2n.k3fQ0XO6vv/cyqn35.E3ENqps23LZ9qfYztwxe
+    adminuser3:
+      email: admin3@example.com
+      name: Admin 3
+      password: $2b$12$nuIecTgGjvS9qpNGhhs/euu3ovql28e3xQeOHVin3.YHm32yUTOJu
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - nghiep.hn2104@gmail.com
