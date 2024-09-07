@@ -5,7 +5,7 @@ st.set_page_config(page_title="PĐT Fpoly HCM")
 
 def main():
 
-    st.markdown('<h1 style="font-size: 25px;">Phòng Đào Tạo FPT Polytechnic Cơ Sở THCM</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 style="font-size: 25px;">Phòng Đào Tạo FPT Polytechnic Cơ Sở TP.HCM</h1>', unsafe_allow_html=True)
     st.write("---")
 
     if "messages" not in st.session_state:
